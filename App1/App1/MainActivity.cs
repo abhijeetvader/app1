@@ -11,6 +11,8 @@ namespace App1
     [Activity(Label = "App1", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
+
+//change for test
         int count = 1;
 
         protected override void OnCreate(Bundle bundle)
