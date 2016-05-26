@@ -1,0 +1,9 @@
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\App1.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\Mono.Android.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\mscorlib.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\System.Core.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\System.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\System.Xml.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\assemblies\System.ServiceModel.Internals.dll

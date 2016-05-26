@@ -1,0 +1,14 @@
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Release\App1.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Release\App1.pdb
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Release\App1.App1.apk
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Release\App1.App1-Signed.apk
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\App1.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\App1.pdb
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\android\bin\App1.App1.apk
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\res\layout\main.xml
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\res\values\strings.xml
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\res\drawable\icon.png
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\R.cs.flag
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\uploadflags.txt
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Release\App1.dll.mdb
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Release\App1.dll.mdb

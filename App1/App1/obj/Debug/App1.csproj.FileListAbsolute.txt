@@ -1,0 +1,15 @@
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Debug\App1.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Debug\App1.pdb
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Debug\App1.App1.apk
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Debug\App1.App1-Signed.apk
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\App1.dll
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\App1.pdb
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\android\bin\App1.App1.apk
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\res\layout\main.xml
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\res\values\strings.xml
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\res\drawable\icon.png
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\R.cs.flag
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\uploadflags.txt
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+E:\Abhijeet Vader\Android Sample\App1\App1\obj\Debug\App1.dll.mdb
+E:\Abhijeet Vader\Android Sample\App1\App1\bin\Debug\App1.dll.mdb
